@@ -1,6 +1,6 @@
-# Attack Agnostic Unsupervised Adversarial Detection Using Sensitivity Analysis of Prediction And Attribution
+# PASA: Attack Agnostic Unsupervised Adversarial Detection using Prediction \& Attribution Sensitivity Analysis
 
-Repository for the paper "Attack Agnostic Unsupervised Adversarial Detection Using Sensitivity Analysis of Prediction And Attribution," submitted at AAAI-2024.
+Repository for the paper "PASA: Attack Agnostic Unsupervised Adversarial Detection using Prediction \& Attribution Sensitivity Analysis," submitted at 9th IEEE European Symposium on Security and Privacy.
 
 This paper provides our implementation of unsupervised adversarial detection using feature attribution and model prediction sensitivity.
 
