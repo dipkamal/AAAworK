@@ -8,8 +8,6 @@ $$
 \phi(\textbf{x}) = 1[S_1(\textbf{x})>\eta_2~\textnormal{or}~S_1(\textbf{x}) < \eta_1]
 $$
 
-\textbf{OR}
-
 $$
 \phi(\textbf{x}) = 1[S_2(\textbf{x})>\alpha_2~\textnormal{or}~S_2(\textbf{x}) < \alpha_1]
 $$
